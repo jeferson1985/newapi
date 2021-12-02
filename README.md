@@ -8,7 +8,7 @@
 <p>-Depois de criar o ambiente virtual será necessário ativar o mesmo executando o comando ./nome_da_venv/Scripts/Activate <br>
 <p>-Será necessário  instalar o Django, com o comando pip install django</p>
 <p>-Instalar o Django Rest Framework, com o comando pip install djangorestframework</p>
-<p>-Execute o comando python manage.py runserver</p>
+<p>-Execute o comando python manage.py runserver para rodar o projeto</p>
 
 <p>-Rota  http://127.0.0.1:8000/</p>
-<p> Rota http://127.0.0.1:8000/carros/</p>
+<p>-Rota http://127.0.0.1:8000/carros/</p>
